@@ -1,0 +1,1 @@
+Este repositorio funcionara como un clonado y funcionamiento para crear un repositorio apartir de github
